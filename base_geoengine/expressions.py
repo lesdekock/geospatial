@@ -6,7 +6,7 @@ import string
 
 from odoo.osv import expression
 from odoo.osv.expression import TERM_OPERATORS
-from odoo.tools import Query
+# from odoo.tools import Query
 
 from .fields import GeoField
 from .geo_operators import GeoOperator
